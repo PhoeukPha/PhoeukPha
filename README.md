@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @PhoeukPha
-- 👀 I’m interested in FullStack Developer
-- 🌱 I’m currently learning Web Development and Mobile using Flutter
-- 💞️ I’m looking to collaborate on Web Development and Mobile Development
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-PhoeukPha/PhoeukPha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Developer
+
+- ☕ I'm learning how to make it better.
+- 🧑‍💻 I’m looking to collaborate on open-source projects
+- 💬 Ask me about [Bootstrap](https://getbootstrap.com) , [Laravel](https://laravel.com)
+- 😄 Pronouns: he/him/his
+- ⚡ favorite: Cartoon and Game
+
+[![GitHub followers](https://img.shields.io/github/followers/PhoeukPha?style=social)](https://github.com/PhoeukPha)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/PhoeukPha)
+[![Subscribe Youtube](https://img.shields.io/badge/Youtube-informational?style=social&logo=youtube)](https://www.youtube.com/@CamboITs)
+
+![Profile views](https://komarev.com/ghpvc/?username=PhoeukPha&color=brightgreen)
+
+### Github Stats
+
+[![PhoeukPha Github Stats](https://github-readme-stats.vercel.app/api?username=PhoeukPha&count_private=true&theme=default&show_icons=true)](https://github.com/PhoeukPha)
